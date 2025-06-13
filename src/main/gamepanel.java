@@ -3,6 +3,7 @@ package main;
 import javax.swing.*;
 import java.awt.*;
 
+//i think this is important
 public class gamepanel extends JPanel {
 
     //screen settings
