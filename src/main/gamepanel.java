@@ -7,14 +7,15 @@ public class gamepanel extends JPanel {
 
     //screen settings
     final int originalTileSize = 16; //16x16 tile
-    final int scaledTileSize = 4;
+    final int scaledTileSize = 5;
 
-    final int tileSize = originalTileSize * scaledTileSize; // scaled tile size (64px)
-    final int maxTilesColumns = 14;
-    final int maxTilesRows = 23;
-    final int screenWidth = tileSize * maxTilesRows; // 1472px
-    final int screenHeight = tileSize * maxTilesColumns; // 896px
-    // idk why i thought 23:14 ratio screen would be optimal but yes
+    final int tileSize = originalTileSize * scaledTileSize; // scaled tile size
+    final int maxTilesColumns = 9;
+    final int maxTilesRows = 16;
+    final int screenWidth = tileSize * maxTilesRows;
+    final int screenHeight = tileSize * maxTilesColumns;
+
+
 
     public gamepanel() {
 
