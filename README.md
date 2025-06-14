@@ -27,6 +27,7 @@ I hope after this project is finished, I can learn more about Java overall, reme
     - [ ]  Create NPCs' interactions
 - [ ]  Create inventory
 - [ ]  Create events
+- [ ]  ~~Lore~~
 - [ ]  Complete the game
 
 ---
