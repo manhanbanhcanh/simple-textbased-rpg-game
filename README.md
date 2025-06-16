@@ -12,7 +12,7 @@ I hope after this project is finished, I can learn more about Java overall, reme
 
 ### Roadmap
 - [x]  Create and display a game window
-- [ ]  Create a game loop
+- [x]  Create a game loop
 - [ ]  Display character
 - [ ]  Control character
 - [ ]  Display background tiles
