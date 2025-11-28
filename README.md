@@ -4,6 +4,8 @@
 [![GitHub stars](https://img.shields.io/badge/contact-bento-blue)](https://bento.me/ducmanh)
 [![Java](https://badgen.net/badge/Java/21.0.7/orange)](https://www.oracle.com/java/)
 
+### Thia project is now scrapped
+
 ### About The Project
 This mini-project is an attempt from me to make an RPG game using Java from scratch. The reason for this *torturing* doing is because of the courses that I've applied to in [my university](https://www.hanu.vn/), and I am forced to use Java.
 
